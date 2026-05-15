@@ -1,0 +1,12 @@
+{
+  "backgroundImg": "/images/promotion.jpg",
+  "heading": "Find a remote job on<br>the <a href=\"#\" class=\"highlight-text text-underline\"> #1 remote work platform</a>",
+  "inputPlaceholder": "Username or email",
+  "emailButton": "Continue with email",
+  "dividerText": "or",
+  "googleButton": "Continue with Google",
+  "signupText": "Not a members yet?",
+  "signupLink": "Sign up",
+  "termsText": "By logging in you agree to our",
+  "termsLink": "term and services"
+}

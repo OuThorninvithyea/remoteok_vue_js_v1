@@ -1,0 +1,9 @@
+[
+  { "categoryItem": "🦴 Sort by", "url": "#", "default": true },
+  { "categoryItem": "🆕 Latest jobs", "url": "#" },
+  { "categoryItem": "💵 Highest paid", "url": "#" },
+  { "categoryItem": "👀 Most viewed", "url": "#" },
+  { "categoryItem": "✅ Most applied", "url": "#" },
+  { "categoryItem": "🔥 Hottest", "url": "#" },
+  { "categoryItem": "🎪 Most benefits", "url": "#" }
+]

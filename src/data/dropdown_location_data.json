@@ -1,0 +1,19 @@
+{
+  "regions": [
+    { "categoryItem": "🌍 Worldwide", "url": "#" },
+    { "categoryItem": "⛰️ North America", "url": "#" },
+    { "categoryItem": "💃 Latin America", "url": "#" },
+    { "categoryItem": "🇪🇺 Europe", "url": "#" },
+    { "categoryItem": "🦁 Africa", "url": "#" },
+    { "categoryItem": "🕌 Middle East", "url": "#" },
+    { "categoryItem": "⛩️ Asia", "url": "#" },
+    { "categoryItem": "🌊 Oceania", "url": "#" }
+  ],
+  "countries": [
+    { "categoryItem": "🇺🇸 United States", "url": "#" },
+    { "categoryItem": "🇨🇦 Canada", "url": "#" },
+    { "categoryItem": "🇬🇧 United Kingdom", "url": "#" },
+    { "categoryItem": "🇦🇺 Australia", "url": "#" },
+    { "categoryItem": "🇳🇿 New Zealand", "url": "#" }
+  ]
+}

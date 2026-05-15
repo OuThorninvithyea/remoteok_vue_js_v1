@@ -1,0 +1,64 @@
+{
+  "header": {
+    "join": "🧑‍💻 Join Remote OK",
+    "login": "👋 Log in"
+  },
+  "sections": [
+    {
+      "title": "GENERAL",
+      "items": [
+        { "categoryItem": "🏠 Frontpage", "url": "#" },
+        { "categoryItem": "🏝️ Remote jobs", "url": "#" },
+        { "categoryItem": "🌗 Dark mode", "url": "#" },
+        { "categoryItem": "🧑‍💻 Hire remote workers", "url": "#" },
+        { "categoryItem": "📮 Post a job", "url": "#" },
+        { "categoryItem": "⭐️ Go premium", "url": "#" }
+      ]
+    },
+    {
+      "title": "TOP JOBS",
+      "items": [
+        { "categoryItem": "🤖 AI Jobs", "url": "#" },
+        { "categoryItem": "⏰ Async jobs", "url": "#" },
+        { "categoryItem": "🌎 Distributed team", "url": "#" },
+        { "categoryItem": "🎧 Support jobs", "url": "#" },
+        { "categoryItem": "🤓 Engineer jobs", "url": "#" },
+        { "categoryItem": "🤓 Software jobs", "url": "#" },
+        { "categoryItem": "👴 Senior jobs", "url": "#" },
+        { "categoryItem": "🛠️ Technical jobs", "url": "#" },
+        { "categoryItem": "💼 Management jobs", "url": "#" },
+        { "categoryItem": "🚀 Growth jobs", "url": "#" },
+        { "categoryItem": "🧑‍💼 Lead jobs", "url": "#" }
+      ]
+    },
+    {
+      "title": "COMPANIES",
+      "items": [
+        { "categoryItem": "📮 Post a remote job", "url": "#" },
+        { "categoryItem": "📦 Buy a job bundle", "url": "#" },
+        { "categoryItem": "🏷️ Ask for a discount", "url": "#" },
+        { "categoryItem": "🛡 Health insurance for teams", "url": "#" },
+        { "categoryItem": "🛡 Health insurance for noma...", "url": "#" }
+      ]
+    },
+    {
+      "title": "FEEDS",
+      "items": [
+        { "categoryItem": "🛠 Remote Jobs API", "url": "#" },
+        { "categoryItem": "🪄 RSS feed", "url": "#" },
+        { "categoryItem": "🪚 JSON feed", "url": "#" },
+        { "categoryItem": "🟧 Hacker News mode", "url": "#" },
+        { "categoryItem": "❌ Safe for work mode", "url": "#" }
+      ]
+    },
+    {
+      "title": "HELP",
+      "items": [
+        { "categoryItem": "💡 Ideas + bugs", "url": "#" },
+        { "categoryItem": "🚀 Changelog", "url": "#" },
+        { "categoryItem": "🛍️ Merch", "url": "#" },
+        { "categoryItem": "🛟 FAQ & Help", "url": "#" }
+      ]
+    }
+  ]
+}

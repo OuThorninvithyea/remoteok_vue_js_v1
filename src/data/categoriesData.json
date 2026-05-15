@@ -1,0 +1,13 @@
+{
+  "hoverText": "Suggested filter, tap to add",
+  "filters": [
+    { "emoji": "🎧", "label": "Support" },
+    { "emoji": "🤓", "label": "Engineer" },
+    { "emoji": "🤓", "label": "Software" },
+    { "emoji": "👵", "label": "Senior" },
+    { "emoji": "🛠", "label": "Technical" },
+    { "emoji": "💼", "label": "Management" },
+    { "emoji": "🚀", "label": "Growth" },
+    { "emoji": "👩‍✈️", "label": "Lead" }
+  ]
+}

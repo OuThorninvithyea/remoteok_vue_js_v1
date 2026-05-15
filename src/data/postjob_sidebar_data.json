@@ -1,0 +1,150 @@
+{
+  "trustedCompanies": {
+    "headerText": "Remote OK is the most popular remote jobs board in the world trusted by millions of remote workers and leading remote companies like",
+    "highlightText": "the most popular remote jobs board in the world",
+    "logos": [
+      { "src": "/images/aws.png", "alt": "AWS" },
+      { "src": "/images/espn.svg", "alt": "ESPN" },
+      { "src": "/images/ibm.png", "alt": "IBM" },
+      { "src": "/images/microsoft.png", "alt": "Microsoft" },
+      { "src": "/images/scale-ai.png", "alt": "Scale AI" },
+      { "src": "/images/ycombinator.png", "alt": "Y Combinator" },
+      { "src": "/images/github.png", "alt": "GitHub" },
+      { "src": "/images/posthog.png", "alt": "PostHog" },
+      { "src": "/images/mozilla.png", "alt": "Mozilla" },
+      { "src": "/images/stripe.png", "alt": "Stripe" },
+      { "src": "/images/cloudflare.png", "alt": "Cloudflare" },
+      { "src": "/images/shopify.png", "alt": "Shopify" },
+      { "src": "/images/godaddy.png", "alt": "GoDaddy" },
+      { "src": "/images/easyjet.png", "alt": "easyJet" },
+      { "src": "/images/indeed.png", "alt": "Indeed" }
+    ],
+    "showMoreText": "SHOW MORE"
+  },
+
+  "stats": [
+    { "label": "Starting from", "value": "💳 $299", "sub": "for 30 days" },
+    { "label": "Reach", "value": "🚀 2,700,000+", "sub": "remote workers/mo" },
+    {
+      "label": "Distributed on the",
+      "value": "Google for Jobs",
+      "sub": "recruitment network",
+      "hasGoogleIcon": true
+    },
+    {
+      "label": "Rated",
+      "type": "stars",
+      "starIcon": "/images/emoji-star.png",
+      "starCount": 5,
+      "sub": "Customer rating <strong>9.0</strong> | <strong>60,259</strong> reviews"
+    },
+    { "label": "Emailed to", "value": "📬 2,309,564", "sub": "remote job seekers" },
+    { "label": "Crossposted to", "value": "✨ 240 job boards", "sub": "that currently use our API", "apiLink": "#" },
+    { "label": "Guaranteed", "value": "🎡 200+ [Apply] clicks", "sub": "or we auto bump it for free" },
+    {
+      "label": "Pay with",
+      "type": "image",
+      "image": "/images/payment-methods.png",
+      "imageAlt": "Payment methods",
+      "sub": "🔒 Secure payment with Stripe"
+    }
+  ],
+
+  "testimonials": [
+    {
+      "image": "/images/testimonial-edwin-stripe-3.jpeg",
+      "alt": "Edwin",
+      "highlight": "The response has been amazing! A lotttt of applicants.",
+      "muted": "Thank you, and everything Remote OK did, to help with this!\"",
+      "name": "Edwin",
+      "role": "DevRel",
+      "company": "OpenAI"
+    },
+    {
+      "image": "/images/testimonial-sara-komoot-2.jpg",
+      "alt": "Sara",
+      "highlight": "Remote OK has been an essential platform for attracting great talent to our remote-first company",
+      "muted": "",
+      "name": "Sara",
+      "role": "Recruitment",
+      "company": "Komoot"
+    },
+    {
+      "image": "/images/testimonial-andy-tettra.jpg",
+      "alt": "Andy",
+      "highlight": "I want to say that having 1,500 applicants to sort through is a good problem to have",
+      "muted": "and thanks to y'all for making that happen\"",
+      "name": "Andy",
+      "role": "CEO",
+      "company": "Tettra"
+    },
+    {
+      "image": "/images/testimonial-tris-aula.jpg",
+      "alt": "Tris",
+      "highlight": "We are loving the performance of the job ads, we have had so many great applicants.",
+      "muted": "Thank you for your great work on building this job board :)\"",
+      "name": "Tris",
+      "role": "Global Sourcing Lead",
+      "company": "Aula Education"
+    },
+    {
+      "image": "/images/testimonial-zsolt.jpeg",
+      "alt": "Zsolt",
+      "highlight": "I love the site, I tried so many different job sites and Remote OK is by far the best to deliver",
+      "muted": "",
+      "name": "Zsolt",
+      "role": "Founder & CEO",
+      "company": "PingPong"
+    },
+    {
+      "image": "/images/testimonial-baptiste-crisp.jpg",
+      "alt": "Baptiste",
+      "highlight": "We super like Remote OK. We had around 100 applicants for our previous job post,",
+      "muted": "so we are doing a new one :)\"",
+      "name": "Baptiste",
+      "role": "Founder & CEO",
+      "company": "Crisp Chat"
+    },
+    {
+      "image": "/images/testimonial-ken-savvy.jpg",
+      "alt": "Ken",
+      "highlight": "Awesome, you rock! Your customer support is a perfect example of why I stick with your site",
+      "muted": "as our \"go-to\" job board...\"",
+      "name": "Ken",
+      "role": "CEO",
+      "company": "Savvy"
+    },
+    {
+      "image": "/images/testimonial-peter-benei.png",
+      "alt": "Peter",
+      "beforeHighlight": "We posted 2 jobs in the recent month now, and a quick feedback on the applicants: we're not just getting a ton of them, but",
+      "highlight": "people coming from Remote OK are much much much more valid and higher quality",
+      "muted": "compared to people coming from LinkedIn, Angel, VirtualVocations, Emotive, or Indeed, as we posted our jobs there too. So big fan of Remote OK, the last job was only posted there. Thanks for the good stuff!\"",
+      "name": "Peter",
+      "role": "COO",
+      "company": "KISSPatent"
+    },
+    {
+      "image": "/images/testimonial-crossover.jpg",
+      "alt": "Alex",
+      "highlight": "It was the best job board targeted at remote professionals in terms of results.",
+      "muted": "Thank you for the collaboration, it was a pleasure working with you and with Remote OK.\"",
+      "name": "Alex",
+      "role": "Global Sourcing Strategist",
+      "company": "Crossover"
+    }
+  ],
+
+  "founder": {
+    "image": "/images/img_1.png",
+    "alt": "Pieter Levels",
+    "bio": [
+      "👋 Hi! I'm the maker of Remote OK and other sites related to remote work such as <a href=\"https://nomads.com\">Nomads.com</a>. Remote OK isn't a big team, it's actually just a one-man operation which is me on a laptop somewhere in the world. I built Remote OK to help 🚀 accelerate the revolution that is remote work (and pay my rent and coffee). My site has now become the <a href=\"https://remoteok.com\">#1 remote job platform</a> in the world!",
+      "Remote work gives people more flexibility in their daily lives, and lets employers hire the 🏆 the best talent regardless of where they are located in the 🌍 world. That's the most significant change to work since the industrial revolution, and that's why I make this site.",
+      "Need help posting your job? Here's <a href=\"https://x.com/levelsio\">my 𝕏</a>. Tweet to me, and I'll help you personally and can also help you if you'd like to buy multiple job posts packages or get a discount. Go remote!"
+    ],
+    "name": "Pieter Levels",
+    "role": "Founder",
+    "company": "Remote OK"
+  }
+}
